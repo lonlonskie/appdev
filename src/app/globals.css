@@ -1,0 +1,49 @@
+@import "tailwindcss";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #ffffff;
+    --foreground: #000000;
+  }
+}
+
+body {
+  padding-top: 50px;
+  color: var(--foreground);
+  font-family: Arial, Helvetica, sans-serif;
+
+  background: url('https://sb.kaleidousercontent.com/67418/1920x1100/2ed9107761/bg.png') center center / cover no-repeat fixed;
+  position: relative;
+  min-height: 100vh;
+}
+
+body::before {
+  content: "";
+  position: fixed;
+  top: 0; left: 0; right: 0; bottom: 0;
+  background: inherit;
+  filter: brightness(90%);
+  z-index: -1;
+}
+
+
+button, a{
+  cursor: pointer;
+}
