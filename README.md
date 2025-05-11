@@ -6,9 +6,19 @@ This project is a dynamic, full-featured web application built with **Next.js** 
 
 ---
 
-## ⚙️ Setup and Installation Instructions
+## Setup and Installation Instructions
 
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/your-username/your-repository-name.git
-   cd your-repository-name
+**Installation & Setup**
+
+    • Clone repo: git clone <repo_url>
+    • Run `npm install` in project folder
+    • Add Google Maps API key at .env file
+    • Launch app: npm run dev
+    
+**Login Credentials**
+
+    Admin: admin@admin.com / admin123
+    Sample User: Sincere@april.biz / Bret
+
+---
+
