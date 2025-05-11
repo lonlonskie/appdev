@@ -21,4 +21,15 @@ This project is a dynamic, full-featured web application built with **Next.js** 
     Sample User: Sincere@april.biz / Bret
 
 ---
+## Team member contributions
+
+
+    Member	                 Role
+    Marlon Bono	             Setup, auth, deployment
+    Sophia Jean Gipanao	     Charts, user view
+    Leila Ermino	         Form validation, maps
+    Joesan Gile	             Posts, comments, UI
+---
+## Deployed URL
+https://appdev-kappa.vercel.app/
 
