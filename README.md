@@ -39,13 +39,20 @@ This project is a dynamic, full-featured web application built with **Next.js** 
 
 ---
 ## Team member contributions
-    Member	                 Role
-    Marlon Bono	             Setup, auth, deployment
-    Sophia Jean Gipanao	     Charts, user view
-    Leila Ermino	         Form validation, maps
-    Joesan Gile	             Posts, comments, UI
+    Member	                     		Role
+Joesan Gile	               	     Setup, auth, deployment,
+Sophia Jean Gipanao	             Charts, Form validation
+Leila Ermino	         	     User view, maps
+Marlon Bono             	     Posts, comments, UI
+
     
 ---
 ## Deployed URL
 https://appdev-kappa.vercel.app/
+
+---
+## Video Presentation
+https://drive.google.com/drive/folders/1d2i4UUVBM0G4cczW5CzckjmFcl2RqI2I?fbclid=IwY2xjawKWsolleHRuA2FlbQIxMABicmlkETFJVzZzU3RQUWNEZlZhNjVVAR5UGZDJcFghRDCYHjS_rX_C2CQEtOhJuaIP9shXrw6BvfArne4W0nMc3Lo3ng_aem_PN_Xyx_h8vUM1P-_VyCDQA
+
+
 
